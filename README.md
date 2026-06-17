@@ -91,7 +91,7 @@ Goodbye.
 .
 ├── chatbot.py        # Main chatbot script
 ├── requirements.txt  # Python dependencies
-├── .env              # Local secrets (not committed)
+├── .env              # Local secrets 
 └── .gitignore
 ```
 
